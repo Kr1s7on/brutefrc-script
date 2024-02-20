@@ -9,7 +9,7 @@ For educational purposes. Just a basic example of a bruteforce algorithm for und
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bruteforce-script.git
+   git clone https://github.com/Kr1s7on/bruteforce-script.git
 2. Run it:
    ```python
    python3 script.py
